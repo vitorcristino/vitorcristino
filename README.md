@@ -2,7 +2,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vitorcristino&color=blue" alt="Profile views" /> </p>
 
 - 🔥  A programming enthusiast.
-- 🔭  I'm currently learning **JavaScript, NodeJS, TypeScript**
+- 🔭  I'm currently learning **JavaScript, NodeJS, React**
   <!--
 
 <br><br>
