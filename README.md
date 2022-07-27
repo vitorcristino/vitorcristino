@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vitor Cristino</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorcristino&color=blue" alt="Profile views" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vitorcristino&color=blue" alt="Profile views" /> </p>
 
 - 🔥  A programming enthusiast.
 - 🔭  I'm currently learning **JavaScript, NodeJS.**
@@ -21,7 +21,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
+<br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -31,7 +31,6 @@
 </p>
 -->
 
-<br><br>
 
 ## Contact
 
