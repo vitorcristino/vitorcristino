@@ -27,11 +27,12 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=vitorcristino&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcristino&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcristino&layout=compact&theme=vision-friendly-dark" alt="vitorcristino most languages"/>
+
 </p>
 -->
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=vitorcristino&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcristino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
