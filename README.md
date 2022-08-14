@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vitor Cristino</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vitorcristino&color=blue" alt="Profile views" /> </p>
 
-- 🔥  A programming enthusiast.
+- 🔥  An enthusiastic programmer.
 - 🔭  I'm currently learning **JavaScript, NodeJS, React**
   <!--
 
