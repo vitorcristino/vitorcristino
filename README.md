@@ -2,7 +2,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vitorcristino&color=blue" alt="Profile views" /> </p>
 
 - 🔥  An enthusiastic programmer.
-- 🔭  I'm currently learning **PHP and MySQL**
+- 🔭  I'm currently learning **C#, PHP and MySQL**
   <!--
 
 <br><br>
